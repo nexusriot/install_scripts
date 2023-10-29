@@ -1,0 +1,2 @@
+tmpfs     /mnt/RAM_disk     tmpfs     rw,size=768M,x-gvfs-show     0 0
+
